@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="0">
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff8d070000600000002c0a000027030000</PLACEMENT>
+  <WINDOW type="default" module="ARES"/>
+ </FRAME>
+ <FRAME activewindow="0">
+  <PLACEMENT>2c00000000000000020000000083ffff0083fffffffffffffffffffff9ffffff000000005b050000df020000</PLACEMENT>
+  <WINDOW type="default" module="ISIS"/>
+  <WINDOW type="default" module="DXP"/>
+  <WINDOW type="default" module="STARTUP"/>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>
